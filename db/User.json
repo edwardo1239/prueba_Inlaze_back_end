@@ -1,0 +1,66 @@
+[
+    {
+        "_id": "9880639f-ae36-45bf-b369-2b0f203d4266",
+        "username": "usuario10",
+        "password": "$2b$10$ktGlYo/KeS8LyrD5SVPxFOYMfrofhXUSx.VrhDdkkp4wUnnL7sHrC",
+        "eliminado": false,
+        "createdAt": "2024-09-23T04:57:23.995Z",
+        "email": "correo@correo.com"
+    },
+    {
+        "_id": "421a0e27-46be-4a73-84f0-ae1d10cceb0f",
+        "username": "usuario9",
+        "password": "$2b$10$4zqUvVsjsBOQBi/wzlrM/e9DB5R0PM/TzI6YpEKZrtMyftb5zpMo6",
+        "eliminado": false,
+        "createdAt": "2024-09-23T04:57:23.995Z",
+        "email": "correo@correo.com"
+    },
+    {
+        "_id": "e6eb9677-5e1c-4b5e-a33d-8c8826294678",
+        "username": "usuario8",
+        "password": "$2b$10$8ObuY4SKpZIsleiEM6dnk.D4e54aYUJcE9Vzz1lxnIRdEIcNNTQzi",
+        "eliminado": false,
+        "createdAt": "2024-09-23T04:57:23.995Z",
+        "email": "correo@correo.com"
+    },
+    {
+        "_id": "684f9022-bc8f-4fc2-8b05-fbf1e0d0132a",
+        "username": "usuario7",
+        "password": "$2b$10$oSxRdmrFiSY2c88Lv0Plau8EPRsmYuCsxMU4WtXfK.o2A1T4M1tsm",
+        "eliminado": false,
+        "createdAt": "2024-09-23T04:57:23.995Z",
+        "email": "correo@correo.com"
+    },
+    {
+        "_id": "8c022a5f-aa95-47a2-afcd-dd647d477269",
+        "username": "usuario6",
+        "password": "$2b$10$I95xYWj1I.I4A/v04i.69O0K6GQAvz3OP6mn0MYsB4wUHZ.FXpCdy",
+        "eliminado": false,
+        "createdAt": "2024-09-23T04:57:23.995Z",
+        "email": "correo@correo.com"
+    },
+    {
+        "_id": "a4a421df-2b8a-440b-9718-0b2dbfc17387",
+        "username": "usuario2",
+        "password": "$2b$10$pzhofp/N2ZQ/7AZkRLcVrOSD5PA3KF4LSc71kxjOEjKpB65NdzdJC",
+        "eliminado": false,
+        "createdAt": "2024-09-23T04:57:23.995Z",
+        "email": "correo@correo.com"
+    },
+    {
+        "_id": "58225e1e-9378-453a-858f-cca87877b847",
+        "username": "usuario3",
+        "password": "$2b$10$TkKzCHMs7Tw/mIssGGhl5OKJEFDv4qmUPrHiMo1ZWx3IRreswvx6O",
+        "eliminado": false,
+        "createdAt": "2024-09-23T04:44:05.781Z",
+        "email": "edwarmsdkasda"
+    },
+    {
+        "_id": "4bf5e3e8-a491-4540-8a9d-f8aee6327cae",
+        "username": "prueba3",
+        "password": "$2b$10$nSau3FyhuHtwifrWnmTfauzZdqP2SH/tudLCWLaTGGzIZOKlV97Ou",
+        "eliminado": false,
+        "createdAt": "2024-09-21T18:00:20.724Z",
+        "email": "email1_modificado@gmail.com"
+    }
+]
